@@ -9,6 +9,8 @@ export class ProductListComponent implements OnInit {
 
   constructor() { }
 
+
+  products:any = [1,2,3,4]
   ngOnInit(): void {
   }
 
