@@ -1,5 +1,7 @@
 export const products = [
   {
+    coverdImg:'./assets/img/phone-cover.jpg',
+    placeholderImg:'../../assets/img/placeholder.png',
     name: 'Phone XL',
     price: 799,
     description: 'A large phone with one of the best screens',
@@ -19,6 +21,8 @@ export const products = [
     ]
   },
   {
+    coverdImg:'./assets/img/phone-cover.jpg',
+    placeholderImg:'../../assets/img/placeholder.png',
     name: 'Phone Mini',
     price: 699,
     description: 'A great phone with one of the best cameras',
@@ -38,6 +42,8 @@ export const products = [
     ]
   },
   {
+    coverdImg:'./assets/img/phone-cover.jpg',
+    placeholderImg:'../../assets/img/placeholder.png',
     name: 'Phone Standard',
     price: 299,
     description: 'aaa',
